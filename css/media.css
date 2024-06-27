@@ -1,0 +1,30 @@
+@media (max-width: 535px){
+    
+    .header nav{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    
+    .header nav h1{
+        margin: auto;
+    }
+    
+    .header nav ul{
+        margin: auto;
+        margin-top: 15px;
+    }
+}
+
+@media (max-width: 991px){
+    .ll{
+        margin: auto;
+    }
+
+    .oo{
+        margin: auto;
+        width: 500px;
+    }
+
+    
+}
